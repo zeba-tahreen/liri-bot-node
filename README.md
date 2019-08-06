@@ -100,5 +100,27 @@ This will output the following movie information to your terminal/bash window:
  * Runs spotify-this-song for "I Want it That Way".
 
 ### Demonstration 
+##### This is the default movie we set `"Mr. Nobody"`.
+
+![defaultValue](https://user-images.githubusercontent.com/50170893/62527178-a80a3080-b808-11e9-83cc-78b7cd68e05c.PNG)
+
+##### When you enter `concert-this` `name of the concert` the app shows the list of events.
+![concertThis](https://user-images.githubusercontent.com/50170893/62527134-958ff700-b808-11e9-8aa7-282c18633619.PNG)
+
+##### For `doThat` method I have set some default values in `random.txt` for each.
+
+![dothat1](https://user-images.githubusercontent.com/50170893/62527234-bc4e2d80-b808-11e9-99a2-8568493c7e8d.PNG)
+
+##### The response we get front the terminal after you enter `do-what-it-says`
+![dothat](https://user-images.githubusercontent.com/50170893/62527197-b2c4c580-b808-11e9-9562-2ae600f73a37.PNG)
+
+##### This is the response from `movie-this` `name of the movie`.
+![movieThis](https://user-images.githubusercontent.com/50170893/62527253-c5d79580-b808-11e9-9645-f2824ed1ee91.PNG)
+
+
+
+
+
+
 
 
