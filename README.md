@@ -83,7 +83,7 @@ Displays the following information about the selected song in your terminal/bash
 This will output the following movie information to your terminal/bash window:
 
  ```
- * Title`
+  * Title
   * Year movie was released
   * IMDB Rating
   * Rotten Tomatoes Rating
