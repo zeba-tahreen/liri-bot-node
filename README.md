@@ -101,18 +101,18 @@ This will output the following movie information to your terminal/bash window:
 
 ### Demonstration 
 
-##### `"Mr. Nobody"` is a default movie, as per instructions given we should have a movie info display even when we dont pass any name in the command line.
+##### `"Mr. Nobody"` is a default movie. As per instructions given we should have a movie info displayed, even when we dont mention any name in the command line.
 
 ![default-movie](https://user-images.githubusercontent.com/50170893/62665823-a3e82b00-b94e-11e9-9eed-c8380a1b6556.PNG)
 
-##### When you enter `concert-this` `name of the concert` the app shows the list of events.
+##### When you enter `concert-this` `name of the concert` the app shows the list of events with the complete details as name, location and date of event.
 ![concert-this](https://user-images.githubusercontent.com/50170893/62665512-8bc3dc00-b94d-11e9-971e-b853c47a455a.PNG)
 
-##### For `doThat` method, we had instruction to set some default values in `random.txt` for each.
+##### For `doThat` method, we had instruction to set default values in `random.txt` for Spotify but I made it for each command the we enter.
 
 ![random](https://user-images.githubusercontent.com/50170893/62665756-62f01680-b94e-11e9-9ab7-465f598b6401.PNG)
 
-##### The response we get front the terminal after you enter `do-what-it-says`
+##### Here you can see the response we get from the terminal when you enter `do-what-it-says`
 I have set some `Default Values` for all the commands so you can see it in the `Menu of Content` and complete results as well. 
 
 ![do-what-it-says-1](https://user-images.githubusercontent.com/50170893/62665615-fd9c2580-b94d-11e9-9db1-8d4386edd628.PNG)
@@ -120,7 +120,7 @@ I have set some `Default Values` for all the commands so you can see it in the `
 ![do-what-it-says-2](https://user-images.githubusercontent.com/50170893/62665627-0987e780-b94e-11e9-875a-4319e0b86197.PNG)
 
 
-##### This is the response from `movie-this` `name of the movie` below you can see the result of command passed.
+##### This is the response from `movie-this` `name of the movie` below will be the result of command enter.
 ![movie-this](https://user-images.githubusercontent.com/50170893/62665522-941c1700-b94d-11e9-8063-de456373f132.PNG)
 
 
