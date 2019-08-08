@@ -139,7 +139,7 @@ function doThat() {
         }
         var dataArr = data.split(",");
         console.log(" ");
-        console.log("--------- menu of content -------");
+        console.log("==== Menu of Content ====");
         console.log(" ")
         for (var i = 0; i < dataArr.length; i++) {
             if (i % 2 === 0) {
@@ -153,12 +153,12 @@ function doThat() {
 // Spotify-this-song function
 
 function spotifySong(song) {
-    if (song) {
+    if (!song) {
         song = "The Sign";
     }
     spotify.search({ type: "track", query: song }, function (err, response) {
         console.log(" ");
-        console.log("==== Playing Spotify ====" + song + " ==== ");
+        console.log("==== Playing Spotify ==== " + song + " ==== ");
         console.log(" ");
         for (var i = 0; i < 5; i++) {
             var spotifyResults = "==== ==== ==== ====" +
