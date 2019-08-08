@@ -100,23 +100,28 @@ This will output the following movie information to your terminal/bash window:
  * Runs spotify-this-song for "I Want it That Way".
 
 ### Demonstration 
-##### This is the default movie we set `"Mr. Nobody"`.
 
-![defaultValue](https://user-images.githubusercontent.com/50170893/62527178-a80a3080-b808-11e9-83cc-78b7cd68e05c.PNG)
+##### `"Mr. Nobody"` is a default movie, as per instructions given we should have a movie info display even when we dont pass any name in the command line.
+
+![default-movie](https://user-images.githubusercontent.com/50170893/62665823-a3e82b00-b94e-11e9-9eed-c8380a1b6556.PNG)
 
 ##### When you enter `concert-this` `name of the concert` the app shows the list of events.
-![concertThis](https://user-images.githubusercontent.com/50170893/62527134-958ff700-b808-11e9-8aa7-282c18633619.PNG)
+![concert-this](https://user-images.githubusercontent.com/50170893/62665512-8bc3dc00-b94d-11e9-971e-b853c47a455a.PNG)
 
-##### For `doThat` method I have set some default values in `random.txt` for each.
+##### For `doThat` method, we had instruction to set some default values in `random.txt` for each.
 
-![dothat1](https://user-images.githubusercontent.com/50170893/62527234-bc4e2d80-b808-11e9-99a2-8568493c7e8d.PNG)
+![random](https://user-images.githubusercontent.com/50170893/62665756-62f01680-b94e-11e9-9ab7-465f598b6401.PNG)
 
 ##### The response we get front the terminal after you enter `do-what-it-says`
-![dothat](https://user-images.githubusercontent.com/50170893/62527197-b2c4c580-b808-11e9-9562-2ae600f73a37.PNG)
+I have set some `Default Values` for all the commands so you can see it in the `Menu of Content` and complete results as well. 
 
-##### This is the response from `movie-this` `name of the movie`.
-![movieThis](https://user-images.githubusercontent.com/50170893/62527253-c5d79580-b808-11e9-9645-f2824ed1ee91.PNG)
+![do-what-it-says-1](https://user-images.githubusercontent.com/50170893/62665615-fd9c2580-b94d-11e9-9db1-8d4386edd628.PNG)
 
+![do-what-it-says-2](https://user-images.githubusercontent.com/50170893/62665627-0987e780-b94e-11e9-875a-4319e0b86197.PNG)
+
+
+##### This is the response from `movie-this` `name of the movie` below you can see the result of command passed.
+![movie-this](https://user-images.githubusercontent.com/50170893/62665522-941c1700-b94d-11e9-8063-de456373f132.PNG)
 
 
 
